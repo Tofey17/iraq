@@ -3,12 +3,8 @@
 
 
 
-<p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=Source-Ze&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
-</p>
-
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Source-Ze&&show_icons=true&theme=midnight-purple" alt="MrMODY"/></p>        
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Source-Ze&&show_icons=true&theme=midnight-purple" alt="TOFEY"/></p>        
  
 <p align="center">
 Used Languages 
